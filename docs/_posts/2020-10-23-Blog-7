@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Blog 7"
+date:   2020-10-23 19:22:30 -0700
+categories: ansible playbook
+---
+This week was consisted of me playing around with Ansible in order to configure a web server. I still have yet to finish the lab but i am almost about 75 percent done while writing this blog posting. I booted up a brand new docker container that was running ubuntu and installed the ansible program on it. Then I had to create a directory within the home directory where I would use to configure ansible. WE were given certain examples of how ansible works and in the case of the lab, it showed an example of a playbook that installs git. I am still playing around with the playbook so we are able to install multiple packages and learning the proper syntax of it becauase as explained in class, the little indentations and spacing is very vital when creating these playbooks. 
